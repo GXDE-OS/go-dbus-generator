@@ -1,0 +1,5 @@
+go-dbus-generator (0.6.6-1+stable) unstable; urgency=low
+
+  * ['Autobuild release-candidate: ace6ac0af3ad2bbbddb4c3c770bee03b5edf6bf9']
+
+ -- shuttle <shuttle@deepin.com>  Thu, 14 Feb 2019 13:50:17 +0000
